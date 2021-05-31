@@ -1,4 +1,4 @@
-package kzz.project1;
+package kzz.project01;
 
 import java.util.Date;
 

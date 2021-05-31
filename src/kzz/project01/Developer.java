@@ -1,8 +1,8 @@
-package kzz.project1;
+package kzz.project01;
 
 import java.util.Date;
 
-public class Developer extends Employee{
+public class Developer extends Employee {
 
     private String programmingLanguage;
     private boolean isDistantWork;

@@ -1,8 +1,11 @@
-package kzz.project1;
+package kzz.project01;
+
+import kzz.project01.Employee;
+import kzz.project01.Manager;
 
 import java.util.Date;
 
-public class TeamLeader extends Employee implements Manager{
+public class TeamLeader extends Employee implements Manager {
 
     private String currentProject;
     private Date deadline;

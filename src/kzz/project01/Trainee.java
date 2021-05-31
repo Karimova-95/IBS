@@ -1,6 +1,8 @@
-package kzz.project1;
+package kzz.project01;
 
-public class Trainee extends Employee{
+import kzz.project01.Employee;
+
+public class Trainee extends Employee {
 
     private String position;
     private String favouriteBook;
