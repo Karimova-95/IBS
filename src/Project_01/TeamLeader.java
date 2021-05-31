@@ -1,7 +1,7 @@
-package kzz.project01;
+package Project_01;
 
-import kzz.project01.Employee;
-import kzz.project01.Manager;
+import Project_01.Employee;
+import Project_01.Manager;
 
 import java.util.Date;
 

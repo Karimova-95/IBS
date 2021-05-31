@@ -1,6 +1,6 @@
-package kzz.project01;
+package Project_01;
 
-import kzz.project01.Employee;
+import Project_01.Employee;
 
 public class Trainee extends Employee {
 

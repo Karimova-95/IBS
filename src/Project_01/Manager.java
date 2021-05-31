@@ -1,4 +1,4 @@
-package kzz.project01;
+package Project_01;
 
 public interface Manager {
     void makeSchedule();

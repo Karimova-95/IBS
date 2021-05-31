@@ -1,4 +1,4 @@
-package kzz.project01;
+package Project_01;
 
 import java.util.ArrayList;
 import java.util.HashSet;
