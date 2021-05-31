@@ -48,4 +48,11 @@ public class Developer extends Employee {
     public void setSalary(int bonus) {
         super.setSalary(bonus);
     }
+
+    public void writeProgram() {
+    }
+
+    public void takeVacation() {
+
+    }
 }

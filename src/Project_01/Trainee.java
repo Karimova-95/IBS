@@ -47,4 +47,9 @@ public class Trainee extends Employee {
     public void setSalary(int bonus) {
         super.setSalary(bonus);
     }
+
+    public boolean toHire() {
+    return true;
+    }
+
 }

@@ -45,4 +45,7 @@ public class TeamLeader extends Employee implements Manager {
     public void setSalary(int bonus) {
         super.setSalary(bonus);
     }
+
+    public void changeProject(String currentProject, Date deadline) {
+    }
 }
