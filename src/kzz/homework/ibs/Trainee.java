@@ -1,6 +1,4 @@
-package Project_01;
-
-import Project_01.Employee;
+package kzz.homework.ibs;
 
 public class Trainee extends Employee {
 

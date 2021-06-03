@@ -1,4 +1,4 @@
-package Project_01;
+package kzz.homework.ibs;
 
 public interface Manager {
     void makeSchedule();

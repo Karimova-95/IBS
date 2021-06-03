@@ -1,4 +1,4 @@
-package Project_01;
+package kzz.homework.ibs;
 
 import java.util.Date;
 
@@ -60,10 +60,7 @@ public abstract class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
-                "firstName='" + firstName + '\'' +
-                ", surname='" + surname + '\'' +
-                ", experience=" + experience +
-                '}';
+        return this.getClass().getSimpleName() + " ФИ = " + firstName +
+                " " + surname + ", опыт работы = " + experience;
     }
 }

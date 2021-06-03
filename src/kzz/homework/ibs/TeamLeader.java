@@ -1,7 +1,4 @@
-package Project_01;
-
-import Project_01.Employee;
-import Project_01.Manager;
+package kzz.homework.ibs;
 
 import java.util.Date;
 
