@@ -57,7 +57,7 @@ public class MainApp {
 
         List<Employee> employeeList = new ArrayList<>(employeeHashSet);
 
-        employeeList
+        List<Employee> sortedList =  employeeList
                 .stream().sorted((employee1, employee2) -> employee1.getSurname().length() - employee2.getSurname().length())
                 .collect(Collectors.toList());
 
