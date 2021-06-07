@@ -1,4 +1,4 @@
-package kzz.homework.ibs;
+package kzz.homework.java;
 
 public interface Manager {
     void makeSchedule();

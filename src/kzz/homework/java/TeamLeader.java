@@ -1,4 +1,4 @@
-package kzz.homework.ibs;
+package kzz.homework.java;
 
 import java.util.Date;
 
