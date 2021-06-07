@@ -1,4 +1,4 @@
-package kzz.homework.java;
+package ibs.homework.java;
 
 import java.util.ArrayList;
 import java.util.Date;

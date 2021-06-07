@@ -1,4 +1,4 @@
-package kzz.homework.java;
+package ibs.homework.java;
 
 public class Trainee extends Employee {
 
